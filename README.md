@@ -8,7 +8,7 @@ The analysis uses the [Asian Religious and Biblical Texts dataset](https://archi
 
 - 590 chapters from 8 different religious texts
 - Each chapter is represented as a document-term matrix
-- Original dimensionality: 8,267 terms per document
+- Original dimensionality: 8,267 terms
 - Texts include both Asian philosophical works and Biblical wisdom literature
 
 ## Techniques Used
